@@ -61,26 +61,15 @@ KPI GREEN ENERGY LTD /Sudi & Tancha Bharuch/ Solar/ 0.31/ 1-Dec-2017
 ___________
 KPI GREEN ENERGY LTD/ Sudi & Tancha Bharuch /Solar/ 1.05/ 31-Jul-2018
 ______________
-KPI GREEN 
-ENERGY LTD Sudi & Tancha Bharuch Solar 2.52 29
--Nov
--2018
-KPI GREEN 
-ENERGY LTD Sudi & Tancha Bharuch Solar 1.165 29
--Jan
--2019
-KPI GREEN 
-ENERGY LTD Sudi & Tancha Bharuch Solar 1.71 30
--Apr
--2019
-KPI GREEN 
-ENERGY LTD Sudi & Tancha Bharuch Solar 6.85 27
--Jun
--2019
-KPI GREEN 
-ENERGY LTD Sudi & Tancha Bharuch Solar 5.43 21
--Sep
--2019
+KPI GREEN ENERGY LTD /Sudi & Tancha Bharuch/ Solar/ 2.52/ 29-Nov-2018
+____________
+KPI GREEN ENERGY LTD/ Sudi & Tancha Bharuch/ Solar/ 1.165/ 29-Jan-2019
+__________
+KPI GREEN ENERGY LTD/ Sudi & Tancha Bharuch/ Solar/ 1.71/ 30-Apr-2019
+_________
+KPI GREEN ENERGY LTD/ Sudi & Tancha Bharuch/ Solar/ 6.85/27-Jun-2019
+____________
+KPI GREEN ENERGY LTD /Sudi & Tancha Bharuch/ Solar/ 5.43/ 21-Sep-2019
 KPI GREEN 
 ENERGY LTD Sudi & Tancha Bharuch Solar 5.81
 4
