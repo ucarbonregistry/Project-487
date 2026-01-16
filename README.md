@@ -119,19 +119,17 @@ QTY: 819294
 
 MP-01: 2016-2024
 ____________
-Serial Number
-0001-000001-006711-UCR-CoU-IN-487-13012016-31122016
-Vintage Year
-2016
-Quantity in CoU Unsorted
-6711
+Serial Number: 0001-000001-006711-UCR-CoU-IN-487-13012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 6711
 ________
-Serial Number
-0001-006712-028349-UCR-CoU-IN-487-01012017-31122017
-Vintage Year
-2017
-Quantity in CoU Unsorted
-21638
+Serial Number: 0001-006712-028349-UCR-CoU-IN-487-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 21638
 ___________
 Serial Number
 0001-028350-060272-UCR-CoU-IN-487-01012018-31122018
@@ -140,40 +138,35 @@ Vintage Year
 Quantity in CoU Unsorted
 31923
 ___________
-Serial Number
-0001-060273-107163-UCR-CoU-IN-487-01012019-31122019
-Vintage Year
-2019
-Quantity in CoU Unsorted
-46891
+Serial Number: 0001-060273-107163-UCR-CoU-IN-487-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 46891
 _____________
-Serial Number
-0001-107164-190709-UCR-CoU-IN-487-01012020-31122020
-Vintage Year
-2020
-Quantity in CoU Unsorted
-83546
+Serial Number: 0001-107164-190709-UCR-CoU-IN-487-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 83546
 _____________
-Serial Number
-0001-190710-294258-UCR-CoU-IN-487-01012021-31122021
-Vintage Year
-2021
-Quantity in CoU Unsorted
-103549
+Serial Number: 0001-190710-294258-UCR-CoU-IN-487-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 103549
 _______________
-Serial Number
-0001-294259-436618-UCR-CoU-IN-487-01012022-31122022
-Vintage Year
-2022
-Quantity in CoU Unsorted
-142360
+Serial Number: 0001-294259-436618-UCR-CoU-IN-487-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 142360
 _________
-Serial Number
-0001-436619-634034-UCR-CoU-IN-487-01012023-31122023
-Vintage Year
-2023
-Quantity in CoU Unsorted
-197416
+Serial Number: 0001-436619-634034-UCR-CoU-IN-487-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 197416
 _______________
 Serial Number: 0001-634035-819294-UCR-CoU-IN-487-01012024-31122024
 
